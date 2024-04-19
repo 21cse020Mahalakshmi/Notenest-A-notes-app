@@ -1,0 +1,1 @@
+NOTENEST is a simple notes website designed to help you keep track of the books you've read. You can store information such as the book's title, author, and a short description to remember key points or your thoughts on the book.
